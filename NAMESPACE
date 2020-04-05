@@ -1,0 +1,9 @@
+export(calcpot)
+export(detespectral)
+export(gramschmidt)
+export(matrizdiag)
+export(trazaespectral)
+export(valprop)
+export(vecprop)
+import(pracma)
+
